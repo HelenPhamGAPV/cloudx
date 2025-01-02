@@ -5,7 +5,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 import { animateScroll } from "react-scroll";
 
-import NavBar from "./components/NavBar"
+// import NavBar from "./components/NavBar"
 import Home from "./views/Home";
 import AllService from "./views/AllService"
 import AboutUs from "./views/AboutUs"
@@ -27,7 +27,7 @@ function App() {
 
   return (
     <main className="w-full bg-white text-gray-950 font-montserrat">
-      <NavBar />
+      {/* <NavBar /> */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about-us" element={<AboutUs />}/>
