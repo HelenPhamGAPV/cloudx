@@ -1,0 +1,121 @@
+<svg
+    width="35"
+    height="36"
+    viewBox="0 0 35 36"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    name="mixtraljs"
+    class="mr-2 h-9 w-9 ListItems_ListItemIcon__JEBXv"
+>
+    <g clip-path="url(#clip0_11637_186)">
+        <path
+            d="M27.0461 4.875H24.1294V10.1949H27.0461V4.875Z"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></path>
+        <path
+            d="M32.0833 4.875H26.7803V10.1949H32.0833V4.875Z"
+            fill="currentColor"
+            fill-opacity="0.2"
+        ></path>
+        <path
+            d="M10.8714 4.875H5.56836V10.1949H10.8714V4.875Z"
+            fill="currentColor"
+            fill-opacity="0.2"
+        ></path>
+        <path
+            d="M32.0833 10.1948H26.7803V15.5147H32.0833V10.1948Z"
+            fill="currentColor"
+            fill-opacity="0.2"
+        ></path>
+        <path
+            d="M10.8714 10.1948H5.56836V15.5147H10.8714V10.1948Z"
+            fill="currentColor"
+            fill-opacity="0.2"
+        ></path>
+        <path
+            d="M21.7426 10.1948H18.8259V15.5147H21.7426V10.1948Z"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></path>
+        <path
+            d="M26.7803 10.1948H21.4773V15.5147H26.7803V10.1948Z"
+            fill="currentColor"
+            fill-opacity="0.2"
+        ></path>
+        <path
+            d="M16.1744 10.1948H10.8713V15.5147H16.1744V10.1948Z"
+            fill="currentColor"
+            fill-opacity="0.2"
+        ></path>
+        <path
+            d="M21.4773 15.5146H16.1743V20.8345H21.4773V15.5146Z"
+            fill="currentColor"
+            fill-opacity="0.25"
+        ></path>
+        <path
+            d="M26.7803 15.5146H21.4773V20.8345H26.7803V15.5146Z"
+            fill="currentColor"
+            fill-opacity="0.25"
+        ></path>
+        <path
+            d="M16.1744 15.5146H10.8713V20.8345H16.1744V15.5146Z"
+            fill="currentColor"
+            fill-opacity="0.25"
+        ></path>
+        <path
+            d="M16.4391 20.8345H13.5225V26.1543H16.4391V20.8345Z"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></path>
+        <path
+            d="M21.4773 20.8345H16.1743V26.1543H21.4773V20.8345Z"
+            fill="currentColor"
+            fill-opacity="0.5"
+        ></path>
+        <path
+            d="M32.0833 15.5146H26.7803V20.8345H32.0833V15.5146Z"
+            fill="currentColor"
+            fill-opacity="0.25"
+        ></path>
+        <path
+            d="M10.8714 15.5146H5.56836V20.8345H10.8714V15.5146Z"
+            fill="currentColor"
+            fill-opacity="0.25"
+        ></path>
+        <path
+            d="M32.0833 20.8345H26.7803V26.1543H32.0833V20.8345Z"
+            fill="currentColor"
+            fill-opacity="0.5"
+        ></path>
+        <path
+            d="M10.8714 20.8345H5.56836V26.1543H10.8714V20.8345Z"
+            fill="currentColor"
+            fill-opacity="0.5"
+        ></path>
+        <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M27.0461 20.8345H24.1294V26.1543H27.0461V20.8345ZM26.7797 26.1544H24.1294V31.4743H26.7797H29.4324H32.0828V26.1544H29.4324H26.7797Z"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></path>
+        <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M5.83341 4.875H2.91675V26.1543V26.75V31.4742H5.56852H8.21978H10.8716V26.1543H8.21978H5.83341V4.875Z"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></path>
+    </g>
+    <defs>
+        <clipPath id="clip0_11637_186">
+            <rect
+                width="29.1667"
+                height="26.6304"
+                fill="white"
+                transform="translate(2.91675 4.875)"
+            ></rect>
+        </clipPath>
+    </defs>
+</svg>

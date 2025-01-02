@@ -1,0 +1,407 @@
+<svg
+    width="35"
+    height="36"
+    viewBox="0 0 35 36"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    name="weaviate"
+    class="mr-2 h-9 w-9 ListItems_ListItemIcon__JEBXv"
+>
+    <path
+        d="M21.9479 25.2022L22.2289 25.407C22.2289 25.407 22.2289 25.407 22.2296 25.4077L21.9472 25.2022M15.8093 23.1735C15.8093 23.1735 15.8043 23.1769 15.8022 23.1783L12.9263 25.2749C12.9263 25.2749 12.9299 25.2721 12.9314 25.2707L15.8093 23.1728M14.5746 15.499C14.5194 15.5281 14.4642 15.5571 14.4098 15.5876L10.8804 17.5603V17.5679L14.5746 15.499Z"
+        fill="currentColor"
+        fill-opacity="0.75"
+    ></path>
+    <mask
+        id="mask0_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="10"
+        y="15"
+        width="15"
+        height="11"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M17.4961 18.6317C16.6677 18.6317 15.8386 18.8559 15.1119 19.3041L10.8853 21.9104V24.285C10.8853 25.0169 11.508 25.5225 12.1709 25.5225C12.4296 25.5225 12.6947 25.4457 12.9312 25.2749L15.807 23.1783C15.807 23.1783 15.8121 23.1748 15.8142 23.1735L15.9095 23.1036C16.3445 22.7868 16.9171 22.6284 17.4904 22.6284C18.0637 22.6284 18.6363 22.7868 19.0706 23.1036L21.9514 25.2022L22.2337 25.4077C22.2947 25.4519 22.357 25.4941 22.4208 25.5342L22.0589 25.2707C22.2968 25.4443 22.5641 25.5225 22.825 25.5225C23.4878 25.5225 24.1106 25.0169 24.1106 24.285V21.9159L19.8832 19.3055C19.1558 18.8565 18.326 18.6317 17.4968 18.6317M14.7042 15.4368C14.6626 15.4575 14.621 15.4783 14.5802 15.4997L10.886 17.5686V17.5755L14.7042 15.4368Z"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask0_11637_372)">
+        <rect
+            width="13.3464"
+            height="10.1929"
+            transform="matrix(1 0 0 -1 10.8232 25.5862)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask1_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="2"
+        y="13"
+        width="31"
+        height="12"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M2.91675 13.6748H32.0834V24.5345H2.91675V13.6748Z"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask1_11637_372)">
+        <mask
+            id="mask2_11637_372"
+            maskUnits="userSpaceOnUse"
+            x="22"
+            y="16"
+            width="3"
+            height="2"
+            style="mask-type: luminance;"
+        >
+            <path
+                d="M22.7749 16.8201L24.1107 17.5692V17.563L24.0985 17.556L22.7749 16.8201Z"
+                fill="white"
+            ></path>
+        </mask>
+        <g mask="url(#mask2_11637_372)">
+            <rect
+                x="22.7317"
+                y="16.7971"
+                width="1.41032"
+                height="0.796843"
+                fill="currentColor"
+                fill-opacity="0.75"
+            ></rect>
+        </g>
+        <mask
+            id="mask3_11637_372"
+            maskUnits="userSpaceOnUse"
+            x="22"
+            y="16"
+            width="3"
+            height="2"
+            style="mask-type: luminance;"
+        >
+            <path
+                d="M22.7705 16.8179L24.1092 17.5684L22.7734 16.8193L22.7705 16.8179Z"
+                fill="white"
+            ></path>
+        </mask>
+        <g mask="url(#mask3_11637_372)">
+            <rect
+                x="22.73"
+                y="16.7974"
+                width="1.41032"
+                height="0.796843"
+                fill="currentColor"
+                fill-opacity="0.75"
+            ></rect>
+        </g>
+        <mask
+            id="mask4_11637_372"
+            maskUnits="userSpaceOnUse"
+            x="10"
+            y="14"
+            width="15"
+            height="8"
+            style="mask-type: luminance;"
+        >
+            <path
+                d="M17.4875 14.7929C16.5322 14.7929 15.577 15.008 14.7027 15.4383L10.8845 17.577V21.9119L15.1112 19.3056C15.8378 18.8574 16.667 18.6333 17.4954 18.6333C18.3238 18.6333 19.1544 18.8581 19.8818 19.307L24.1091 21.9175V17.5694L22.7705 16.8182L20.5475 15.5822C19.6001 15.0558 18.5438 14.7922 17.4868 14.7922"
+                fill="white"
+            ></path>
+        </mask>
+        <g mask="url(#mask4_11637_372)">
+            <rect
+                x="10.8628"
+                y="14.7715"
+                width="13.2776"
+                height="7.17158"
+                fill="currentColor"
+                fill-opacity="0.75"
+            ></rect>
+        </g>
+    </g>
+    <path
+        d="M10.8827 10.4481V17.5616V10.4564C10.8827 10.4564 10.8827 10.4516 10.8827 10.4488M9.07326 9.37598C9.04602 9.38843 9.01951 9.40226 8.99299 9.41748L7.36769 10.3291L3.9802 12.2299C3.95368 12.2452 3.92717 12.2611 3.90137 12.2777L9.07254 9.37667"
+        fill="currentColor"
+        fill-opacity="0.75"
+    ></path>
+    <mask
+        id="mask5_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="4"
+        y="22"
+        width="2"
+        height="2"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M4.34961 22.7451C4.35606 22.7493 4.36179 22.7527 4.36824 22.7569L5.01392 23.1539C5.01392 23.1539 5.01535 23.1546 5.01535 23.1553C5.01607 23.1553 5.0175 23.1567 5.01822 23.1567L4.34961 22.7451Z"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask5_11637_372)">
+        <rect
+            width="0.791154"
+            height="0.498026"
+            transform="matrix(1 0 0 -1 4.28955 23.1958)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask6_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="3"
+        y="9"
+        width="8"
+        height="13"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M9.62385 9.25C9.44111 9.25 9.25335 9.28943 9.07419 9.37451L3.90302 12.2755C3.38275 12.6082 3.06457 13.1699 3.05884 13.7758V20.4743V19.7999C3.05884 20.5227 3.6737 21.0394 4.34303 21.0394C4.5573 21.0394 4.77731 20.9861 4.98513 20.8699L10.8837 17.5608V10.4473C10.8736 9.74803 10.2753 9.25 9.62385 9.25Z"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask6_11637_372)">
+        <rect
+            width="7.91155"
+            height="11.9194"
+            transform="matrix(1 0 0 -1 3.01709 21.104)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask7_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="3"
+        y="17"
+        width="10"
+        height="9"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M12.8569 25.3248L12.7286 25.4181C12.7322 25.4154 12.7365 25.4126 12.7401 25.4098L12.8569 25.3248ZM10.8783 17.5618L4.97976 20.8709C4.77194 20.9871 4.55193 21.0403 4.33766 21.0403C3.66833 21.0403 3.05347 20.5236 3.05347 19.8008V20.4752C3.06063 21.3931 3.54579 22.2453 4.34339 22.7447L5.012 23.1563C5.6154 23.5201 6.32486 23.7304 7.02501 23.7304C7.59042 23.7304 8.14939 23.5934 8.64171 23.2898L10.8783 21.9285V17.5618Z"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask7_11637_372)">
+        <rect
+            width="9.90663"
+            height="7.93522"
+            transform="matrix(1 0 0 -1 3.0127 25.4534)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask8_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="7"
+        y="24"
+        width="2"
+        height="2"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M7.61963 24.7583L8.91529 25.5558L8.57417 25.3456L7.61963 24.7583Z"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask8_11637_372)">
+        <rect
+            width="1.41032"
+            height="0.896446"
+            transform="matrix(1 0 0 -1 7.55835 25.6194)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask9_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="5"
+        y="23"
+        width="4"
+        height="3"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M5.23682 23.2937L7.61745 24.7587L8.57199 25.346L8.27244 25.162L5.23682 23.2937Z"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask9_11637_372)">
+        <rect
+            width="3.4398"
+            height="2.15811"
+            transform="matrix(1 0 0 -1 5.18066 25.3872)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask10_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="5"
+        y="23"
+        width="4"
+        height="3"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M5.0144 23.1538L5.24157 23.2935L8.2772 25.1611L5.0187 23.1558C5.0187 23.1558 5.01655 23.1545 5.01584 23.1545C5.01584 23.1545 5.0144 23.1538 5.0144 23.1531"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask10_11637_372)">
+        <rect
+            width="3.33661"
+            height="2.12491"
+            transform="matrix(1 0 0 -1 4.97583 25.2217)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask11_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="10"
+        y="21"
+        width="3"
+        height="5"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M10.8853 21.9297V24.2898C10.8853 25.0216 11.508 25.5272 12.1709 25.5272C12.4052 25.5272 12.6453 25.4643 12.8639 25.3253L12.9291 25.2775L12.9362 25.272C12.9362 25.272 12.9327 25.2748 12.9312 25.2761C12.6947 25.447 12.4296 25.5238 12.1709 25.5238C11.508 25.5238 10.8853 25.0181 10.8853 24.2863V21.9304"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask11_11637_372)">
+        <rect
+            width="2.16708"
+            height="3.7186"
+            transform="matrix(1 0 0 -1 10.8232 25.5862)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask12_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="5"
+        y="21"
+        width="8"
+        height="6"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M10.8807 21.9285L8.64411 23.2897C8.15251 23.5934 7.59282 23.7304 7.02741 23.7304C6.32726 23.7304 5.61709 23.5201 5.0144 23.1562L8.91356 25.5558C9.46608 25.8954 10.0931 26.0642 10.7187 26.0642C11.4289 26.0642 12.1369 25.8477 12.7317 25.4181L12.86 25.3247C12.6407 25.4638 12.4014 25.5267 12.167 25.5267C11.5042 25.5267 10.8814 25.0211 10.8814 24.2892V21.9292"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask12_11637_372)">
+        <rect
+            width="7.94594"
+            height="4.24982"
+            transform="matrix(1 0 0 -1 4.97461 26.1174)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask13_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="24"
+        y="9"
+        width="8"
+        height="16"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M25.3529 9.25069C24.7509 9.25069 24.1941 9.67678 24.1052 10.2938V24.2855V17.5615L30.0038 20.8706C30.2116 20.9868 30.4316 21.0401 30.6459 21.0401C31.2607 21.0401 31.829 20.605 31.9179 19.9742V13.7938C31.9179 13.145 31.5603 12.5453 30.9791 12.2195L25.9821 9.41601C25.7785 9.30188 25.5628 9.25 25.3522 9.25"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask13_11637_372)">
+        <rect
+            width="7.91155"
+            height="15.14"
+            transform="matrix(1 0 0 -1 24.0659 24.325)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask14_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="24"
+        y="17"
+        width="8"
+        height="8"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M24.1064 17.5613V24.2853V21.9294L26.343 23.29C26.8346 23.5936 27.3943 23.7306 27.9597 23.7306C28.5732 23.7306 29.1931 23.5694 29.7427 23.2851L30.612 22.7504C31.4261 22.249 31.9191 21.3809 31.9191 20.4484V19.9746C31.8302 20.6048 31.262 21.0405 30.6471 21.0405C30.4328 21.0405 30.2128 20.9873 30.005 20.8711L24.1064 17.562"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask14_11637_372)">
+        <rect
+            width="7.91155"
+            height="6.80636"
+            transform="matrix(1 0 0 -1 24.0671 24.3245)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask15_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="22"
+        y="25"
+        width="1"
+        height="1"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M22.0583 25.271L22.4202 25.5345C22.4202 25.5345 22.4202 25.5345 22.421 25.5345L22.0583 25.2703"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask15_11637_372)">
+        <rect
+            width="0.481571"
+            height="0.365219"
+            transform="matrix(1 0 0 -1 22.0059 25.5864)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+    <mask
+        id="mask16_11637_372"
+        maskUnits="userSpaceOnUse"
+        x="22"
+        y="21"
+        width="8"
+        height="6"
+        style="mask-type: luminance;"
+    >
+        <path
+            d="M24.11 21.9285V24.2851C24.11 25.0169 23.4873 25.5226 22.8244 25.5226C22.5636 25.5226 22.2963 25.4444 22.0583 25.2708L22.421 25.535C22.9763 25.885 23.6156 26.0614 24.2562 26.0614C24.8969 26.0614 25.5096 25.8926 26.0621 25.553L29.747 23.2849C29.1974 23.5692 28.5768 23.7304 27.9641 23.7304C27.3986 23.7304 26.8397 23.5934 26.3474 23.2897L24.1108 21.9285"
+            fill="white"
+        ></path>
+    </mask>
+    <g mask="url(#mask16_11637_372)">
+        <rect
+            width="7.80835"
+            height="4.24982"
+            transform="matrix(1 0 0 -1 22.0059 26.1174)"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></rect>
+    </g>
+</svg>

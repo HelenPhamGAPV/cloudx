@@ -1,0 +1,41 @@
+<svg
+    width="35"
+    height="36"
+    viewBox="0 0 35 36"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    name="azureai"
+    class="mr-2 h-9 w-9 ListItems_ListItemIcon__JEBXv"
+>
+    <g clip-path="url(#clip0_11637_504)">
+        <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M22.4607 3.43628C21.7915 3.43628 21.26 3.96776 21.26 4.63697L21.1417 26.7388C21.1417 29.9666 18.5248 32.5835 15.297 32.5835H4.68848C4.17644 32.5835 3.84265 32.0909 3.99982 31.6194L12.5019 7.35271C13.3283 5.01128 15.532 3.43628 18.0128 3.43628H22.4801H22.4607Z"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></path>
+        <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M22.4606 3.43619C23.3259 3.43619 24.0939 4.08596 24.3694 5.03064C24.6448 5.97531 26.2587 11.82 26.2587 11.82V11.8232C24.1249 12.1202 22.4776 13.9563 22.4776 16.1707V23.4316H21.1595L21.2601 4.63702C21.2601 3.96781 21.7916 3.43633 22.4608 3.43633H20.5322L20.5323 3.41675H22.4606V3.43619Z"
+            fill="currentColor"
+            fill-opacity="0.5"
+        ></path>
+        <path
+            d="M31.0396 12.5088C31.0396 12.0956 30.7058 11.7812 30.312 11.7812H26.8671C24.4463 11.7812 22.4775 13.75 22.4775 16.1708V23.4528H26.65C29.0708 23.4528 31.0396 21.484 31.0396 19.0632V12.5088Z"
+            fill="currentColor"
+            fill-opacity="0.75"
+        ></path>
+    </g>
+    <defs>
+        <clipPath id="clip0_11637_504">
+            <rect
+                width="29.1667"
+                height="29.1667"
+                fill="white"
+                transform="translate(2.91675 3.41675)"
+            ></rect>
+        </clipPath>
+    </defs>
+</svg>

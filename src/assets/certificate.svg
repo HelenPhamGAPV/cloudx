@@ -1,0 +1,17 @@
+<!-- <?xml version="1.0" encoding="utf-8"?> -->
+<svg width="32" height="32" viewBox="0 0 24 24" fill="none" name="certificate" xmlns="http://www.w3.org/2000/svg">
+    <g id="Certificate-file">
+    <path
+        d="M22 6.25V10.725C21.57 10.27 21.065 9.89 20.5 9.6V6.25C20.5 5.56 19.94 5 19.25 5H4.75C4.06 5 3.5 5.56 3.5 6.25V15.75C3.5 16.44 4.06 17 4.75 17H13.105C13.22 17.23 13.35 17.45 13.5 17.66V18.5H4.75C3.235 18.5 2 17.265 2 15.75V6.25C2 4.735 3.235 3.5 4.75 3.5H19.25C20.765 3.5 22 4.735 22 6.25Z"
+        fill="currentColor"></path>
+    <path d="M6.75 8.25H17.25" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
+        stroke-linecap="round"></path>
+    <path d="M6.75 13.75H11.25" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"
+        stroke-linecap="round"></path>
+    <path
+        d="M18 17.75C19.7949 17.75 21.25 16.2949 21.25 14.5C21.25 12.7051 19.7949 11.25 18 11.25C16.2051 11.25 14.75 12.7051 14.75 14.5C14.75 16.2949 16.2051 17.75 18 17.75Z"
+        stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"></path>
+    <path d="M15.75 16.9V21.75L18 20.25L20.25 21.75V16.9" stroke="currentColor" stroke-width="1.5"
+        stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

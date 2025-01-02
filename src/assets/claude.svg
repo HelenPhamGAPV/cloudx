@@ -1,0 +1,16 @@
+<svg width="35" height="36" viewBox="0 0 35 36" fill="none" xmlns="http://www.w3.org/2000/svg"
+    name="claude" class="mr-2 h-9 w-9 ListItems_ListItemIcon__JEBXv">
+    <g clip-path="url(#clip0_11637_339)">
+        <path d="M19.9421 6.33325L28.7251 28.7635H33.5416L24.7586 6.33325H19.9421Z"
+            fill="currentColor" fill-opacity="0.75"></path>
+        <path
+            d="M9.75265 19.8875L12.7579 12.0049L15.7632 19.8875H9.75265ZM10.2399 6.33325L1.45825 28.7635H6.36841L8.16439 24.0531H17.3517L19.1474 28.7635H24.0576L15.2759 6.33325H10.2399Z"
+            fill="currentColor" fill-opacity="0.75"></path>
+    </g>
+    <defs>
+        <clipPath id="clip0_11637_339">
+            <rect width="32.0833" height="22.4583" fill="white"
+                transform="translate(1.45825 6.33325)"></rect>
+        </clipPath>
+    </defs>
+</svg>
