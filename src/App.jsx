@@ -11,7 +11,7 @@ import AllService from "./views/AllService"
 import AboutUs from "./views/AboutUs"
 import { useEffect } from "react";
 import Footer from "./components/Footer";
-import NavBar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Service from "./views/Service"
 import SuccessCase from "./views/SuccessCase"
 import SuccessItem from "./views/SuccessItem"
@@ -28,7 +28,7 @@ function App() {
 
   return (
     <main className="w-full bg-white text-gray-950 font-montserrat">
-      <NavBar />
+      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about-us" element={<AboutUs />}/>

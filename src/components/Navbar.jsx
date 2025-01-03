@@ -9,7 +9,7 @@ import { NavLink, useNavigate } from "react-router-dom";
 import { ArrowCircleRight, CirclesFour } from "@phosphor-icons/react";
 import { Slide } from "react-awesome-reveal";
 
-const NavBar = () => {
+const Navbar = () => {
   const navigate = useNavigate();
 
   const [open, setOpen] = useState(false);
@@ -235,4 +235,4 @@ const NavBar = () => {
   );
 };
 
-export default NavBar;
+export default Navbar;
