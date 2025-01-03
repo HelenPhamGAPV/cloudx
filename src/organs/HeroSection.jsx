@@ -4,7 +4,6 @@ import hero3 from "../assets/hero3.jpg";
 import hero4 from "../assets/hero4.jpg";
 import Slider from "react-slick";
 import { Fade } from "react-awesome-reveal";
-import Carousel from "../atoms/Carousel";
 import { HeroTexts } from "../particles/DataLists";
 import { Button } from "../atoms/Button";
 import { Play } from "@phosphor-icons/react";
