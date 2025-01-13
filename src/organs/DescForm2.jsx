@@ -1,4 +1,5 @@
 import img from "../assets/genaiDetail.png";
+import Icon from "../atoms/Icon"
 
 const DescForm2 = ({ desc }) => {
   return (
@@ -53,7 +54,7 @@ const DescForm2 = ({ desc }) => {
                     src={desc.img}
                   />
                   <figcaption class="mt-2 flex gap-x-2 text-sm leading-6 text-gray-500">
-                    {desc.caption.img ? <img className="mt-0.5 h-5 w-5 flex-none text-gray-300" src={desc.caption.img} /> : <></>}
+                    {desc.caption.img ? <Icon className="mt-0.5 h-5 w-5 flex-none text-gray-300" src={desc.caption.img} /> : <></>}
                     {desc.caption.content}
                   </figcaption>
                 </figure>

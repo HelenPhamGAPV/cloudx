@@ -1,3 +1,5 @@
+import Icon from "../atoms/Icon"
+
 const Process = ({ process }) => {
   return (
     <section
@@ -425,7 +427,7 @@ const Process = ({ process }) => {
                   >
                     <div class="flex-1 rounded-lg p-4 shadow-md transition-all lg:max-w-[48%] lg:p-6">
                       <div class="mb-4 flex flex-row items-center justify-start">
-                        <img
+                        <Icon
                           src={item.img}
                           className="orange-color mr-2 h-8 w-8 text-primary 4sm:block lg:h-12 lg:w-[48px]"
                         />

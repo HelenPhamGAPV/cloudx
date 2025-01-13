@@ -1,3 +1,5 @@
+import Icon from "../atoms/Icon"
+
 const themeList = {
   dark: {
     bg: "black500",
@@ -43,7 +45,7 @@ const Solution = ({ data, theme }) => {
                   style={{color: "#000"}}
                 >
                   <div class="mb-4 flex flex-row items-center justify-start">
-                    <img
+                    <Icon
                       src={item.img}
                       className="ml-1 mr-2.5 mt-1 w-7 min-w-5 orange-color 2sm:w-8 lg:min-w-6"
                     />

@@ -1,3 +1,5 @@
+import Icon from "../atoms/Icon"
+
 const themeList = {
   dark: {
     bg: "black500",
@@ -48,7 +50,7 @@ const Description = ({ desc, theme }) => {
                   key={index}
                   class="flex flex-row items-center justify-start text-parisianNight"
                 >
-                  <img
+                  <Icon
                     src={item.img}
                     className="mr-2 h-9 w-9 ListItems_ListItemIcon__JEBXv"
                   />

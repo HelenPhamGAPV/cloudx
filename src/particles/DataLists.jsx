@@ -1,3 +1,25 @@
+import hero2 from "../assets/hero2.png"
+import hero4 from "../assets/hero4.jpg"
+import aboutUs from "../assets/about-us-0.jpg"
+import genaiBg from "../assets/genai-bg.jpg"
+import karviAutomotiveAspect from "../assets/karvi-automotive-aspect.png"
+import blogBg from "../assets/blog-bg.png"
+import uxuiBlog from "../assets/ux-ui-blog.png"
+import interestRateBlog from "../assets/interest-rate-blog.png"
+import dataAnalysisBlog from "../assets/data-analysis-blog.png"
+import aiToolboxBlog from "../assets/ai-toolbox-blog.png"
+import genaiDetail from "../assets/genaiDetail.png"
+import uiuxDetail from "../assets/ui-ux-detail.png"
+import successSummary from "../assets/successSummary.png"
+import PrecisionAQ from "../assets/Precision-AQ.png"
+import dental from "../assets/dental.png"
+import finance from "../assets/finance.png"
+import karviAutomotiveApp from "../assets/karvi-automotive-app.png"
+import karviAutomotiveChallenge from "../assets/karvi-automotive-challenge.png"
+import genaiBlog from "../assets/genai-blog.png"
+import KarviAutomotiveMarketplace from "../assets/Karvi-Automotive-Marketplace.png"
+
+
 export const NavLinks = [
   {
     name: "About Us",
@@ -29,13 +51,13 @@ export const HeroTexts = [
     header: "Your ideal \n nearshore technology partner",
     detail:
       "We are committed to building a long-lasting partnership to deliver high-quality solutions. Get the best Senior Engineering teams near your timezone.",
-    image: "/assets/hero2.png",
+    image: hero2,
   },
   {
     header: "Transform your business with \n Generative AI",
     detail:
       "We embed AI into your ecosystem, adding true value and solving real-world challenges. Discover practical Generative AI solutions today.",
-    image: "/assets/hero4.jpg",
+    image: hero4,
   },
 ];
 
@@ -60,7 +82,7 @@ export const ReasonText = [
 ];
 
 export const UsIntro = {
-  img: "/assets/about-us-0.jpg",
+  img: aboutUs,
   title: "About Us",
   desc: (
     <>
@@ -71,7 +93,7 @@ export const UsIntro = {
 };
 
 export const allServiceIntro = {
-  img: "/assets/about-us-0.jpg",
+  img: aboutUs,
   title: "Our Services",
   desc: "We build solutions that cover every stage of the end-to-end development cycle",
 };
@@ -81,7 +103,7 @@ export const ourValue = {
   value: [
     {
       title: "Partnership",
-      img: "/assets/handshake.svg",
+      img: "handshake",
       content: (
         <>
           We nurture the best client partnerships through{" "}
@@ -92,7 +114,7 @@ export const ourValue = {
     },
     {
       title: "Seniority",
-      img: "/assets/brain-storm.svg",
+      img: "brainStorm",
       content: (
         <>
           We will add value to your business with a team of{" "}
@@ -103,7 +125,7 @@ export const ourValue = {
     },
     {
       title: "High Quality",
-      img: "/assets/certificate.svg",
+      img: "certificate",
       content: (
         <>
           With top performance in mind, we code applying the best practices to
@@ -114,7 +136,7 @@ export const ourValue = {
     },
     {
       title: "Passion",
-      img: "/assets/hand-holding-hear.svg",
+      img: "handHoldingHear",
       content: (
         <>
           We code because we enjoy it. No matter how big the challenge, for us
@@ -131,7 +153,7 @@ export const OpenWorld = {
   value: [
     {
       title: "Innovation",
-      img: "/assets/certificate.svg",
+      img: "certificate",
       content: (
         <>
           Latin America is one of the biggest tech communities in the world, an{" "}
@@ -142,7 +164,7 @@ export const OpenWorld = {
     },
     {
       title: "Cultural Fit",
-      img: "/assets/earth-care.svg",
+      img: "earthCare",
       content: (
         <>
           We have a long history providing services to the US and Europe, giving
@@ -154,7 +176,7 @@ export const OpenWorld = {
     },
     {
       title: "Time Zone",
-      img: "/assets/delivery-time.svg",
+      img: "deliveryTime",
       content: (
         <>
           With <strong class="font-bold">just one hour difference</strong> from
@@ -237,16 +259,16 @@ export const ServiceTexts = {
 export const serviceDataList = {
   genai: {
     intro: {
-      img: "/assets/genai-bg.jpg",
+      img: genaiBg,
       title: "Generative AI",
       desc: "Enterprise AI solutions that add real value to your business",
     },
     detail: {
       header: "Generative AI is here to stay",
       subheader: "This is why it is being adopted by all kinds of companies",
-      img: "/assets/genaiDetail.png",
+      img: genaiDetail,
       caption: {
-        img: "/assets/infor.svg",
+        img: "infor",
         content: "Talk to Enterprise: a use case of Generative AI Agents",
       },
       paragraph: [
@@ -279,7 +301,7 @@ export const serviceDataList = {
     aboutService: {
       header: "About the service",
       subheader: "",
-      // img: "/assests/genaiDetail.png",
+      // img: "src/assests/genaiDetail.png",
       paragraph: [
         <>
           <span>
@@ -322,58 +344,58 @@ export const serviceDataList = {
     tech: {
       header: "Technology",
       subheader: "",
-      // img: "/assests/genaiDetail.png",
+      // img: "src/assests/genaiDetail.png",
       paragraph: [
         "Our Generative AI Development team uses a diverse array of state-of-the-art technologies to bring your projects to life. We leverage Multimodal Large Language Models, which can process and interpret various file formats such as text, images, video and audio.",
         "Our tech stack includes—but is not limited to—prompt engineering practices, OpenAI APIs, open source GPT models, LLM observability tools, and vector databases for semantic search. We enhance our Generative AI solutions with model fine-tuning and model grounding techniques such as Retrieval-Augmented Generation (RAG) and In-Context Learning (ICL), making LLMs more flexible and adaptable. RAG ensures our LLM uses up-to-date knowledge outside of its training data, while ICL lets our model learn from new information on the spot.",
       ],
       addition: [
         {
-          img: "/assets/openai.svg",
+          img: "openai",
           name: "OpenAI",
         },
         {
-          img: "/assets/llama.svg",
+          img: "llama",
           name: "Llama 3",
         },
         {
-          img: "/assets/claude.svg",
+          img: "claude",
           name: "Claude",
         },
         {
-          img: "/assets/mixtraljs.svg",
+          img: "mixtraljs",
           name: "Mistral",
         },
         {
-          img: "/assets/mixtraljs.svg",
+          img: "mixtraljs",
           name: "Mixtral",
         },
         {
-          img: "/assets/awsbedrock.svg",
+          img: "awsbedrock",
           name: "AWS Bedrock",
         },
         {
-          img: "/assets/vertexai.svg",
+          img: "vertexai",
           name: "Vertex AI",
         },
         {
-          img: "/assets/azureai.svg",
+          img: "azureai",
           name: "Azure AI",
         },
         {
-          img: "/assets/langchain.svg",
+          img: "langchain",
           name: "LangChain",
         },
         {
-          img: "/assets/llamaindex.svg",
+          img: "llamaindex",
           name: "LlamaIndex",
         },
         {
-          img: "/assets/weaviate.svg",
+          img: "weaviate",
           name: "Weaviate",
         },
         {
-          img: "/assets/langfuse.svg",
+          img: "langfuse",
           name: "Langfuse",
         },
       ],
@@ -385,17 +407,17 @@ export const serviceDataList = {
       content: [
         {
           title: "Talk to your Enterprise",
-          img: "/assets/chat.svg",
+          img: "chat",
           desc: "A Natural Language gateway to talk to all your company assets as well as the external world. Get answers to complex questions that require combining information from multiple sources (databases, company documents, ERPs, multimedia, and more).",
         },
         {
           title: "Document harmonization",
-          img: "/assets/archive.svg",
+          img: "archive",
           desc: "Enhance document management by using Generative AI to standardize documents and templates from multiple variants, reducing manual effort and ensuring uniformity across all organizational documents.",
         },
         {
           title: "Vision-enhanced automation",
-          img: "/assets/eye.svg",
+          img: "eye",
           desc: "Use AI with vision capabilities to streamline data entry and analysis. By processing and interpreting images, this technology can digitize handwritten documents and extract valuable insights from images, to name a few.",
         },
       ],
@@ -405,37 +427,37 @@ export const serviceDataList = {
       content: [
         {
           title: "Ideation",
-          img: "/assets/brain.svg",
+          img: "brain",
           desc: "We collaborate with your team to identify your unique business needs, envisioning meaningful and productive integrations of Generative AI with your existing ecosystem.",
         },
         {
           title: "Feasibility assessment",
-          img: "/assets/target.svg",
+          img: "target",
           desc: "We perform a 360° assessment considering usability, scalability, security, data privacy, operational cost, among others. This includes analyzing various AI models to determine the ones that best suit your needs.",
         },
         {
           title: "Proof of concepts",
-          img: "/assets/test-tube.svg",
+          img: "test-tube",
           desc: "In this stage we build the PoCs necessary to confirm the tech stack, architecture and external services to be used in the solution.",
         },
         {
           title: "Construction integration",
-          img: "/assets/development.svg",
+          img: "development",
           desc: "We build the software, including AI solutions as well as traditional development to integrate into your existing applications.",
         },
         {
           title: "Tuning",
-          img: "/assets/circular-arrows.svg",
+          img: "circularArrows",
           desc: "We optimize the model’s usage through prompt engineering, RAG, tool augmentation and fine-tuning. We monitor behavior and operational parameters for the most effective cost-benefit.",
         },
         {
           title: "Go-live",
-          img: "/assets/sent.svg",
+          img: "sent",
           desc: "We work with your organization following a seamless roll-out plan.",
         },
         {
           title: "Post-production support",
-          img: "/assets/maintenance2.svg",
+          img: "maintenance2",
           desc: "Support continues until the project is fully operational and expected standards are met. We perform periodic reviews of usability and collected data for continuous improvement of the experience.",
         },
       ],
@@ -443,14 +465,14 @@ export const serviceDataList = {
   },
   "ui-ux": {
     intro: {
-      img: "/assets/genai-bg.jpg",
+      img: genaiBg,
       title: "UX/UI Design",
       desc: "We are experts in designing exceptional user experiences to meet your business goals",
     },
     detail: {
       header: "Why work with a UX/UI Design team?",
       subheader: "This is why it is being adopted by all kinds of companies",
-      img: "/assets/ui-ux-detail.png",
+      img: uiuxDetail,
       caption: {
         img: "",
         content: "",
@@ -499,7 +521,7 @@ export const serviceDataList = {
     aboutService: {
       header: "About the service",
       subheader: "",
-      // img: "/assests/genaiDetail.png",
+      // img: "src/assests/genaiDetail.png",
       paragraph: [
         "We embrace the end-to-end digital product design process with Senior UX/UI designers. We have a user-centered approach in the process from discovery and research to prototyping. To achieve the best user experience and user interface, we identify the pain points of your digital product and maintain your business goals as priorities.",
       ],
@@ -508,57 +530,57 @@ export const serviceDataList = {
     tech: {
       header: "Technology",
       subheader: "",
-      // img: "/assests/genaiDetail.png",
+      // img: "src/assests/genaiDetail.png",
       paragraph: [
         "Some of the tools and software we work with in UX/UI Design projects are:",
       ],
       addition: [
         {
-          img: "/assets/figma.svg",
+          img: "figma",
           name: "Figma",
         },
         {
-          img: "/assets/adobexd.svg",
+          img: "adobexd",
           name: "Adobe XD",
         },
         {
-          img: "/assets/illustrator.svg",
+          img: "illustrator",
           name: "Illustrator",
         },
         {
-          img: "/assets/photoshop.svg",
+          img: "photoshop",
           name: "Photoshop",
         },
         {
-          img: "/assets/googleanalytics.svg",
+          img: "googleanalytics",
           name: "Google Analytics",
         },
         {
-          img: "/assets/optimizely.svg",
+          img: "optimizely",
           name: "Optimizely",
         },
         {
-          img: "/assets/Asana.svg",
+          img: "Asana",
           name: "asana",
         },
         {
-          img: "/assets/jira.svg",
+          img: "jira",
           name: "Jira",
         },
         {
-          img: "/assets/zeplin.svg",
+          img: "zeplin",
           name: "Zeplin",
         },
         {
-          img: "/assets/figjam.svg",
+          img: "figjam",
           name: "FigJam",
         },
         {
-          img: "/assets/miro.svg",
+          img: "miro",
           name: "Miro",
         },
         {
-          img: "/assets/mural.svg",
+          img: "mural",
           name: "Mural",
         },
       ],
@@ -570,32 +592,32 @@ export const serviceDataList = {
       content: [
         {
           title: "User-centric expertise",
-          img: "/assets/user.svg",
+          img: "user",
           desc: "UX/UI Designers ensure the product is intuitive and engaging, focusing on user experience.",
         },
         {
           title: "Consistency and cohesion",
-          img: "/assets/approval.svg",
+          img: "approval",
           desc: "UX/UI Designers maintain a consistent look and feel across the product, enhancing user trust.",
         },
         {
           title: "Creative problem-solving",
-          img: "/assets/uxui.svg",
+          img: "uxui",
           desc: "They facilitate innovative solutions through collaborative workshops.",
         },
         {
           title: "Strategic alignment",
-          img: "/assets/target.svg",
+          img: "target",
           desc: "They align design decisions with business goals, adding value to the product.",
         },
         {
           title: "Better communication",
-          img: "/assets/chat.svg",
+          img: "chat",
           desc: "UX/UI Designers help bridge gaps between technical teams, stakeholders and users, ensuring everyone is aligned.",
         },
         {
           title: "Sustainability and scalability",
-          img: "/assets/scale-up.svg",
+          img: "scaleUp",
           desc: "They consider long-term growth and adaptability in their designs.",
         },
       ],
@@ -605,27 +627,27 @@ export const serviceDataList = {
       content: [
         {
           title: "Empathize",
-          img: "/assets/hand-holding-hear.svg",
+          img: "handHoldingHear",
           desc: "Empathy is crucial to a human-centered design process. We collect information about the needs and expectations of the users, to understand the bases and tailor design decisions accordingly.",
         },
         {
           title: "Define",
-          img: "/assets/define.svg",
+          img: "define",
           desc: "The findings and insights acquired in the previous step help us determine which user problems are the most important ones to solve and why. This facilitates the development of solutions that are directly linked to user needs.",
         },
         {
           title: "Ideate",
-          img: "/assets/uxui.svg",
+          img: "uxui",
           desc: "Through collaborative brainstorming, we generate a broad set of potential solutions to explore and refine.",
         },
         {
           title: "Prototype",
-          img: "/assets/prototype.svg",
+          img: "prototype",
           desc: "In this experimental phase we translate research insights into tangible designs. Prototyping enables quick and affordable testing and facilitates early detection and corrections of problems.",
         },
         {
           title: "Test",
-          img: "/assets/test-tube.svg",
+          img: "testTube",
           desc: "In this stage we measure the effectiveness of the design, identifying areas for further improvement and iterating the design based on user feedback, even after the initial product launch.",
         },
       ],
@@ -669,48 +691,48 @@ export const DefaultServiceList = [
     name: "Data & Analytics",
     url: "/services/data-analytics",
     desc: "Enhance decision-making with data-driven solutions and advanced analytics. Our comprehensive service covers the entire data lifecycle.",
-    img: "/assets/data.svg",
+    img: "data",
   },
   {
     name: "UX/UI Design",
     desc: "Elevate your digital products and services with engaging, user-centric designs that provide an accessible and visually appealing experience.",
-    img: "/assets/uiux.svg",
+    img: "uxui",
     url: "/services/ui-ux",
   },
   {
     name: "Backend",
     desc: "Fuel your business growth and reduce costs with scalable microservices, using technologies such as .NET, Java, Kotlin, Node, and Go.",
-    img: "/assets/backend.svg",
+    img: "backend",
     url: "/services/backend",
   },
   {
     name: "MVP Development",
     desc: "Let us bring your vision to life. In a swift, efficient project, we will validate your idea to determine and build the core features of your product.",
-    img: "/assets/mvp.svg",
+    img: "mvp",
     url: "/services/mvp",
   },
   {
     name: "Automation & QA",
     desc: "We accelerate delivery, detect issues, and ensure quality, performance, and optimal functionality of your website or mobile app.",
-    img: "/assets/automation.svg",
+    img: "automation",
     url: "/services/automation-qa",
   },
   {
     name: "Web Development",
     desc: "Whether you need a new website or want to improve an existing one, we've got you covered with accessible and stable web platforms for all devices.",
-    img: "/assets/web.svg",
+    img: "web",
     url: "/services/web-development",
   },
   {
     name: "Mobile Apps",
     desc: "Harness the power of mobile technology with native, hybrid and cross-platform app development for Android and iOS.",
-    img: "/assets/mobile.svg",
+    img: "mobile",
     url: "/services/mobile-apps",
   },
   {
     name: "Web3 Development",
     desc: "Step into the realm of web3 as we craft decentralized web applications (dApps) with Ether.js, Hardhat, and Solidity developers.",
-    img: "/assets/blockchain.svg",
+    img: "blockchain",
     url: "/services/web3-development",
   },
 ];
@@ -718,28 +740,28 @@ export const DefaultServiceList = [
 export const summuryCase = {
   intro: {
     title: "Success Cases",
-    img: "/assets/successSummary.png",
+    img: successSummary,
     desc: "We help organizations reach their greatest potential through technology of the highest quality",
   },
   story: [
     {
       title: "Karvi Automotive Marketplace",
-      img: "/assets/Karvi-Automotive-Marketplace.png",
+      img: KarviAutomotiveMarketplace,
       desc: "Due to the great performance of the digital product that was built, Karvi raised a Series A capital venture investment of USD 16.6M, which allowed them to keep growing and made them leaders in the auto market in Latin America.",
     },
     {
       title: "Precision AQ",
-      img: "/assets/Precision-AQ.png",
+      img: PrecisionAQ,
       desc: "Precision AQ, a provider of Market Access data for Pharma & Healthcare, partnered with CloudX to build a platform for operational delivery processes with an automated feature, which enabled faster client onboarding, reduced costs, and improved efficiency.",
     },
     {
       title: "Dental Care App",
-      img: "/assets/dental.png",
+      img: dental,
       desc: "An intuitive design and improved user flow for a dental care app helped cut patient form completion time by 50%. Innovative features like voice assistance and 3D views enhanced both dentist and patient experiences.",
     },
     {
       title: "Embedded Finance Platform",
-      img: "/assets/finance.png",
+      img: finance,
       desc: "A UK-based fintech company scaled their embedded finance platform, automated processes, and reduced costs, transforming their operations and improving their market penetration.",
     },
   ],
@@ -752,9 +774,9 @@ export const successCaseDetail = {
       title: "From MVP to Auto Market Leader:",
       mainTitle: "The Success Story of Karvi's Business Scalability",
       desc: "Due to the great quality of the digital product that was built, Karvi raised a Series A venture capital investment of USD 16.6M, which allowed them to keep growing and made them leaders in the auto market in Latin America.",
-      img: "/assets/karvi-automotive-app.png",
+      img: karviAutomotiveApp,
     },
-    projectImg: "/assets/karvi-automotive-project.png",
+    projectImg: karviAutomotiveApp,
     nutshell: {
       title: "The project in a nutshell",
       content: [
@@ -788,33 +810,33 @@ export const successCaseDetail = {
           .
         </>,
       ],
-      img: "/assets/karvi-automotive-challenge.png",
+      img: karviAutomotiveChallenge,
     },
     tech: {
       title: "The project’s tech stack",
       content: [
         {
-          img: "/assets/nextjs.svg",
+          img: "nextjs",
           name: "Next.js",
         },
         {
-          img: "/assets/reactnative.svg",
+          img: "reactnative",
           name: "React Native",
         },
         {
-          img: "/assets/nodejs.svg",
+          img: "nodejs",
           name: "Node.js",
         },
         {
-          img: "/assets/golang.svg",
+          img: "golang",
           name: "Golang",
         },
         {
-          img: "/assets/aws.svg",
+          img: "aws",
           name: "AWS",
         },
         {
-          img: "/assets/mongdb.svg",
+          img: "mongdb",
           name: "MongoDB",
         },
       ],
@@ -856,7 +878,7 @@ export const successCaseDetail = {
     },
     aspect: {
       title: "Main aspects of the solution",
-      img: "/assets/karvi-automotive-aspect.png",
+      img: karviAutomotiveAspect,
       content: [
         {
           title: "Automotive marketplace",
@@ -959,13 +981,13 @@ export const successCaseDetail = {
 export const blogList = {
   intro: {
     title: "News & Blog",
-    img: "/assets/blog-bg.png",
+    img: blogBg,
     desc: "Stay up to date with the news and articles published by our CloudXperts",
   },
   featured: [
     {
       title: "AI Agent Experience: the current UX paradigm is about to change",
-      img: "/assets/genai-blog.png",
+      img: genaiBlog,
       author: "Pablo Romeo",
       position: "Head of R&D and Tech Strategy - Co-Founder",
       time: "1731974400000",
@@ -977,7 +999,7 @@ export const blogList = {
   latest: [
     {
       title: "The power of UX/UI in today's market",
-      img: "/assets/ux-ui-blog.png",
+      img: uxuiBlog,
       author: "Josefina Delaney",
       position: "UX/UI Coordinator",
       time: "1728864000000",
@@ -987,7 +1009,7 @@ export const blogList = {
     },
     {
       title: "Interest rates are just a blip",
-      img: "/assets/interest-rate-blog.png",
+      img: interestRateBlog,
       author: "Nahuel Vigna",
       position: "CTO & Co-Founder",
       time: "1726704000000",
@@ -997,7 +1019,7 @@ export const blogList = {
     },
     {
       title: "The Data & Analytics Maturity Curve",
-      img: "/assets/data-analysis-blog.png",
+      img: dataAnalysisBlog,
       author: "Leonardo Tizon",
       position: "Senior Data Engineer",
       time: "1724025600000",
@@ -1007,7 +1029,7 @@ export const blogList = {
     },
     {
       title: "The AI toolbox: from traditional to generative models",
-      img: "/assets/ai-toolbox-blog.png",
+      img: aiToolboxBlog,
       author: "Pablo Romeo",
       position: "Head of R&D and Tech Strategy - Co-Founder",
       time: "1721692800000",

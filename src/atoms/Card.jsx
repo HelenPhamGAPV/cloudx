@@ -1,9 +1,12 @@
+import Icon from "../atoms/Icon"
+
 const Card = ({content, key}) => {
   return (
     <div key={key} class="flex justify-center">
       <div class="relative flex h-[300px] max-w-lg flex-col rounded-2xl bg-white shadow-lg lg:w-[352px]">
         <div class="absolute left-5 top-[-25px] flex h-[56px] w-[56px] items-center justify-center rounded-xl bg-gradient-to-r from-primary300 to-cxPurple100">
-          <img src={content.img} className="h-8 w-8 icon-white-color"/>
+          {/* <img src={content.img} className="h-8 w-8 icon-white-color"/> */}
+          <Icon src={content.img} className="h-8 w-8 icon-white-color"/>
         </div>
         <h1 class="mt-6 p-5 font-montserrat text-xl font-bold text-parisianNight lg:mt-5">
           {content.name}

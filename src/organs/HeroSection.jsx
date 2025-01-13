@@ -1,13 +1,5 @@
-import hero1 from "../assets/hero1.jpg";
-import hero2 from "../assets/hero2.png";
-import hero3 from "../assets/hero3.jpg";
-import hero4 from "../assets/hero4.jpg";
 import Slider from "react-slick";
-import { Fade } from "react-awesome-reveal";
 import { HeroTexts } from "../particles/DataLists";
-import { Button } from "../atoms/Button";
-import { Play } from "@phosphor-icons/react";
-import { Text } from "../atoms/Text";
 
 const HeroSection = () => {
   const proprietes = {
@@ -24,16 +16,18 @@ const HeroSection = () => {
     <section className="realtive w-full md:max-h-[550px] max-h-[800px] md:mb-6 mb-1">
       <Slider {...proprietes}>
         {HeroTexts.map((item) => {
+          console.log(new URL(item.image, import.meta.url).href)
           return (
             <div>
               <div
                 className="h-[500px] w-[100%] mix-blend-multiply"
                 style={{
-                  backgroundImage: `url(${item.image})`,
+                  backgroundImage: `url("${item.image}")`,
                   objectFit: "cover",
                   backgroundSize: "100% 100%",
                 }}
               >
+                {/* <img src={item.image} width="100%" height="100%"/> */}
                 <div className="h-full flex justify-center items-center text-center px-6">
                   <div className="inline-block justify-center items-center text-center px-40">
                     <h1 className="z-50 font-montserrat text-4xl font-bold text-white lg:text-6xl">

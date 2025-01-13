@@ -13,12 +13,18 @@ const Navbar = () => {
   const navigate = useNavigate();
 
   const [open, setOpen] = useState(false);
+  const [drop, setDrop] = useState(false);
   // const [scrollY, setScrollY] = useState(0)
   const [navBarColor, setNavBarColor] = useState(false);
 
   const handleToggle = () => {
     setOpen(!open);
   };
+
+  const handDropDown = () => {
+    console.log("drop)")
+    setDrop(!drop)
+  }
 
   const listenScrollEvent = () => {
     window.scrollY > 80 ? setNavBarColor(true) : setNavBarColor(false);
@@ -69,6 +75,7 @@ const Navbar = () => {
                   return (
                     <div className="text-sm">
                       <button
+                        onClick={() => handDropDown()}
                         className={`${
                           navBarColor ? "" : "text-color5"
                         } button relative inline-block overflow-hidden before:w-2 before:h-2 before:bg-color2 before:absolute before:top-2 before:-left-10 before:rounded-full before:transition-all before:duration-200 before:ease-in hover:border-gray-300 border-b-2 border-transparent after:w-0.5 after:h-3 after:bg-color2 after:absolute after:left-1 after:-top-10 hover:border-gray-300 after:transition-all after:duration-200 after:ease-in`}
@@ -76,7 +83,7 @@ const Navbar = () => {
                         {navlink.name}
                       </button>
                       <div
-                        class="hidden absolute right-[500px] z-10 mt-[1px] w-[100vw] max-w-[900px] origin-top-left rounded-b-lg rounded-t-none bg-white p-8 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none lg:right-[450px]"
+                        className={` ${drop ? "block" : "hidden"} absolute right-[500px] z-10 mt-[1px] w-[100vw] max-w-[900px] origin-top-left rounded-b-lg rounded-t-none bg-white p-8 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none lg:right-[450px]`}  
                         aria-labelledby="headlessui-menu-button-:r8m:"
                         id="headlessui-menu-items-:rb4:"
                         role="menu"
@@ -96,16 +103,16 @@ const Navbar = () => {
                           >
                             {ServiceTexts.firstText}
                           </a>
-                          {ServiceTexts.services.map((item, index) => 
+                          {ServiceTexts.services.map((item, index) => (
                             <a
                               key={index}
                               class="block bg-white px-4 py-2 font-montserrat text-base text-gray-700"
-                              href={index.url}
+                              href={item.url}
                               role="none"
                             >
                               {item.name}
                             </a>
-                          )}
+                          ))}
                         </div>
                       </div>
                     </div>

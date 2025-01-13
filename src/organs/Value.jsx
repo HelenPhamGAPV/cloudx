@@ -1,6 +1,7 @@
 import { useCallback, useRef } from "react";
 import { AirplaneTilt, CaretLeft, CaretRight } from "@phosphor-icons/react";
 import handshake from "../assets/handshake.svg";
+import Icon from "../atoms/Icon"
 
 const Value = ({ value }) => {
   return (
@@ -61,10 +62,11 @@ const Value = ({ value }) => {
             {value.value.map((item, index) => (
               <div class="flex max-w-[320px] flex-col py-3.5 2sm:max-w-[240px] md:items-start md:pb-4 md:pt-6 lg:max-w-[320px] lg:items-center">
                 <div class="mb-3 flex flex-row items-center justify-center align-middle lg:mb-6">
-                  <img
+                  {/* <img
                     src={item.img}
                     className="ml-1 mr-2.5 mt-1 w-7 min-w-5 orange-color 2sm:w-8 lg:min-w-6"
-                  />
+                  /> */}
+                  <Icon src={item.img} className="ml-1 mr-2.5 mt-1 w-7 min-w-5 orange-color 2sm:w-8 lg:min-w-6"/>
                   <h3 class="text-color6 font-montserrat text-lg leading-5 md:text-xl md:leading-6 text-center font-bold">
                     {item.title}
                   </h3>
